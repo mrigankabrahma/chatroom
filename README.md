@@ -1,4 +1,4 @@
-# chatroom
+# chatroom(chat application)
 
 Install:
 npm init -y
