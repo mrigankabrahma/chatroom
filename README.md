@@ -9,7 +9,7 @@ npm install express socket.io --save
 Start:
 node server.js
 
-##Anonymous Chat App
+## Anonymous Chat App
 
 A Realtime Chat App which allows multiple users to join and chat anonymously. Built using Node and Socket.io
 
