@@ -15,7 +15,7 @@ A Realtime Chat App which allows multiple users to join and chat anonymously. Bu
 
 This app uses the Web Socket API which allows bi-directional communication between web clients and servers.
 
-The user after choosing a username can connect and chat anonymously with multiple users in real-time.
+The user after choosing a username can connect and chat anonymously with multiple users in real-time..
 
 ## Optimizations
 While improving this project, I would start by implementing the following features -
