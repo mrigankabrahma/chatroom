@@ -4,9 +4,9 @@
 npm init -y
 
 
-npm install express socket.io --save
+2. npm install express socket.io --save
 
-Start:
+3. Start:
 node server.js
 
 ## Anonymous Chat App
